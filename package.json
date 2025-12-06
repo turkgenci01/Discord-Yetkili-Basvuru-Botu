@@ -1,0 +1,16 @@
+{
+  "name": "discord-basvuru-bot",
+  "version": "1.0.0",
+  "description": "Gelişmiş Discord başvuru sistemi botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "keywords": ["discord", "bot", "basvuru", "application"],
+  "author": "Discord Bot Developer",
+  "license": "MIT"
+}
